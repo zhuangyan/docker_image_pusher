@@ -3,5 +3,6 @@ nginx
 garethflowers/svn-server
 xhofe/alist:latest
 wcjiang/reference:latest
+amtoaer/bili-sync
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
