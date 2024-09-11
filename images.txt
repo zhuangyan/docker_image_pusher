@@ -1,6 +1,6 @@
 nginx
 #支持私库
-janeczku/calibre-web
+johngong/calibre-web
 garethflowers/svn-server
 xhofe/alist:latest
 wcjiang/reference:latest
