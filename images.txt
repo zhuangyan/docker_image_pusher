@@ -1,5 +1,7 @@
 nginx
 #支持私库
+adguard/adguardhome
+dreamacro/clash
 johngong/calibre-web
 garethflowers/svn-server
 xhofe/alist:latest
