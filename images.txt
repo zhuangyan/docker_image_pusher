@@ -1,4 +1,5 @@
 nginx
+mysql
 #支持私库
 adguard/adguardhome
 dreamacro/clash
