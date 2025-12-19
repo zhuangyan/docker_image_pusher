@@ -1,6 +1,6 @@
 nginx
 mysql
-postgres:latest
+docker.io/postgres:latest
 #支持私库
 adguard/adguardhome
 dreamacro/clash
